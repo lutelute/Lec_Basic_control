@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "f38533d91a6faa65",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf56f9093a0a6189",
+        "type": "split",
+        "dimension": 38.53591160220994,
+        "children": [
+          {
+            "id": "1c19b08cba6e80b0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0ac144aeb3c04684",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "【講義】制御理論基礎/教科書_足立修一_制御工学の基礎/第1章.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "第1章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2ce6ee24d31a03dd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dc3a0cf0fb18ee2a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "【講義】制御理論基礎/第1章/第1章.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "第1章"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "537ab5b341ebddae",
+        "type": "tabs",
+        "dimension": 61.46408839779005,
+        "children": [
+          {
+            "id": "12211bca1f6b2291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【講義】制御理論基礎/第1章/Chap_1_位置フィードバックシステムの導出.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chap_1_位置フィードバックシステムの導出"
+            }
+          },
+          {
+            "id": "b0b2ba39f265c24d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ALL_Block_Diagram.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ALL_Block_Diagram"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6551e4fb22ce3bb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d0c589aaa312c55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c8c8fdd93a7b2e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "43ee1d5180fa8660",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "9dcb1c111f946199",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c928ec5a59302621",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3aa56c7745684c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "931d3a0df00f9ac3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/ALL_Block_Diagram.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "ALL_Block_Diagramへのバックリンク"
+            }
+          },
+          {
+            "id": "90c872577cfd053b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/ALL_Block_Diagram.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ALL_Block_Diagramからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "e6c6e8ae9f56b189",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "a08ff7c7a2bb89bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/ALL_Block_Diagram.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ALL_Block_Diagramのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "publish:パブリッシュによる変更の公開": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "b0b2ba39f265c24d",
+  "lastOpenFiles": [
+    "【講義】制御理論基礎/第1章/第1章.md",
+    "Excalidraw/ALL_Block_Diagram.md",
+    "【講義】制御理論基礎/第1章/Chap_1_位置フィードバックシステムの導出.md",
+    "【講義】制御理論基礎/教科書_足立修一_制御工学の基礎/第1章.pdf"
+  ]
+}
